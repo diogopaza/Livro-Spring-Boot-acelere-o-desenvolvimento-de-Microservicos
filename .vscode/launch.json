@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SistemaFastFoodApplication<springbootproperties>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fastfood.SistemaFastFoodApplication",
+            "projectName": "springbootproperties",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
