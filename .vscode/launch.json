@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SistemaFastFoodApplication",
+            "request": "launch",
+            "mainClass": "com.fastfood.SistemaFastFoodApplication",
+            "projectName": "fastfood"
+        },
+        {
+            "type": "java",
+            "name": "Launch LivroSpringBootApplication",
+            "request": "launch",
+            "mainClass": "com.diogo.LivroSpringBootApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-SistemaFastFoodApplication<springbootproperties>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
