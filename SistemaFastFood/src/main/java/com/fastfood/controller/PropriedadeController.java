@@ -20,7 +20,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:8181")
+//@CrossOrigin(origins = "http://localhost:8181")
 @RequestMapping("/api")
 @Getter
 @Setter
